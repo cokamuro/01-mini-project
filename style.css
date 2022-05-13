@@ -1,0 +1,70 @@
+/* Universal Selector */
+* {
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+/* Body Selector */
+body {
+    width: 100%;
+    padding: 0px;
+    background-color: aquamarine;
+    align-items: center;
+    text-align: center;
+    position: absolute;
+    top: 60px;
+}
+
+header {
+    text-align: right;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    font-size:x-small;
+    color: #f0ead6;
+    background-color: darkcyan;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    color: #f0ead6;
+    background-color: darkcyan;
+}
+
+.ImageSection {
+    padding:10px;
+    display:block;
+}
+
+h2 {
+    padding:10px;
+    display:block;
+    font-size:small;
+}
+
+.ContactMeSection{
+    padding: 10px;
+    background-color: grey;
+    border-color: darkgrey;
+    border-width: 10px;
+}
+
+.ContactMeBox {
+    padding: 20px 40px;
+  }
+  
+.ContactButton {
+    background-color: darkgrey;
+    color: white;
+  }
+  
+.ContactMeFrame {
+    border: 10px;
+    border-color: black;
+    border-style: solid;
+  }
